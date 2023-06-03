@@ -1,6 +1,6 @@
 <?php
 
-class owner
+class petOwner
 {
     public $id;
     public $name;

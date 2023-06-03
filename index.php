@@ -5,7 +5,7 @@ require_once 'models/petOwner.php';
 
 
 
-$o = new owner();
+$o = new petOwner();
 $o->id=1;
 $o->name = 'Rosa';
 $o->lastName = 'Lopez';
